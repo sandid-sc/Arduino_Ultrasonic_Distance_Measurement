@@ -1,4 +1,4 @@
-/*
+
 #include <SRF05.h>
 #define trg 3
 #define ech 2
@@ -17,4 +17,4 @@ void loop() {
   delay(300);
   Serial.println(USS.getCentimeter());
 }
-*/
+
