@@ -1,7 +1,7 @@
 /* Initial version*/
 #include <SRF05.h>
-#define trg 3
-#define ech 2
+#define trg 4
+#define ech 0
 SRF05 USS(trg, ech);
 void setup() {
   // put your setup code here, to run once:
